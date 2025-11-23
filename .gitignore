@@ -108,6 +108,3 @@ cython_debug/
 
 # Audio and temp files
 temp.mp3
-
-# Vosk model files folder
-vosk-model-small-tr-0.3/
